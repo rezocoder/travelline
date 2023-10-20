@@ -11,7 +11,7 @@
 
 body {
   min-height: 100vh;
-  background-image: url("/assets/images/backgrounds/background.png");
+  background-image: url("assets/images/backgrounds/background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -96,7 +96,7 @@ body {
   width: 213px;
   height: 30px;
   margin-bottom: auto;
-  background-image: url("/assets/images/icons/guarantee.png");
+  background-image: url("assets/images/icons/guarantee.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -209,7 +209,7 @@ body {
 }
 @media (max-width: 575px) {
   body {
-    background-image: url("/assets/images/backgrounds/bg-mobile.png");
+    background-image: url("assets/images/backgrounds/bg-mobile.png");
   }
   .container {
     padding: 20px 0;
